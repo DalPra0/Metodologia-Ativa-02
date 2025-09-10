@@ -1,0 +1,35 @@
+public class Node {
+    private int info;
+    private Node esquerda;
+    private Node direita;
+
+    public Node(int info) {
+        this.info = info;
+        this.esquerda = null;
+        this.direita = null;
+    }
+
+    public int getInfo() {
+        return this.info;
+    }
+
+    public void setInfo(int info) {
+        this.info = info;
+    }
+
+    public Node getEsquerda() {
+        return this.esquerda;
+    }
+
+    public void setEsquerda(Node esquerda) {
+        this.esquerda = esquerda;
+    }
+
+    public Node getDireita() {
+        return this.direita;
+    }
+
+    public void setDireita(Node direita) {
+        this.direita = direita;
+    }
+}
