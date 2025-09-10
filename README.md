@@ -1,6 +1,6 @@
 # Trabalho RA2
 
-Este projeto é a implementação de uma Árvore Binária de Busca (ABB) em Java, desenvolvida para a disciplina de [NOME DA DISCIPLINA AQUI]. O programa cumpre todos os requisitos solicitados, incluindo a criação da estrutura, inserção, remoção (de três tipos) e os três principais métodos de percurso.
+Este projeto é a implementação de uma Árvore Binária de Busca (ABB) em Java. O programa cumpre todos os requisitos solicitados, incluindo a criação da estrutura, inserção, remoção (de três tipos) e os três principais métodos de percurso.
 
 ## 👥 Integrantes do Grupo
 
